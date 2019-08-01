@@ -1,6 +1,11 @@
 # HMM-Tagger
 A Python and NumPy based HMM POS Tagger
 
+## Environment
+
+- Python==3.5.4
+    - NumPy==1.16.4
+
 ## Results
 
 | Algorithm   | ACC (on test set) | Time(s)   |
