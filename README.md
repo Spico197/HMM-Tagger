@@ -1,7 +1,12 @@
 # HMM-Tagger
 A Python and NumPy based HMM POS Tagger
 
+## Results
 
+| Algorithm   | ACC (on test set) | Time(s)   |
+| :---------- | :---------------- | :-------- |
+| HMM-Greedy  | 0.157364          | 0.265532  |
+| HMM-Viterbi | 0.882750          | 42.371875 |
 
 ## References
 
